@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/pineapple45/lab-site.git",
-  "name": "lab-site",
+  "homepage": "https://github.com/pineapple45/labsite.git",
+  "name": "labsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
