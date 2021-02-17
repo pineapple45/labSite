@@ -2,7 +2,7 @@
   "homepage": "https://github.com/pineapple45/lab-site.git",
   "name": "lab-site",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
