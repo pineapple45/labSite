@@ -37,13 +37,13 @@ const Home = () => {
           <div className={classes.contactElement}>
             <Phone />
             <Link color="inherit" variant="body2">
-              +91-89675xxxx
+              +91-896775xxxx
             </Link>
           </div>
           <div className={classes.contactElement}>
             <Phone />
             <Link color="inherit" variant="body2">
-              +91-89675xxxx
+              +91-896375xxxx
             </Link>
           </div>
           <div className={classes.contactElement}>
