@@ -23,7 +23,7 @@ const secondaryLabelData = [
   {
     img:
       'http://www.globaldentalpro.com/wp-content/uploads/2017/01/Oberkiefer_Modellgussprothese_2012_PD_2-1024x752.jpg',
-    title: 'Dental Acrylic Work',
+    title: 'Acrylic Work',
   },
 ];
 
